@@ -1,3 +1,3 @@
 # MyFirstRepo
 My Fist Repository
-Author - Roopa
+Author - Roopa L Jamadar
